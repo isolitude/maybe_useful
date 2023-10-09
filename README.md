@@ -13,3 +13,5 @@ some script may be useful
  需要使用管理员权限打开powershell，运行python脚本
  
  仅限Windows
+## btpt.py
+对使用app从e站下载的torrent，更改内部的tracker，加上personal id
