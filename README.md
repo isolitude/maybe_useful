@@ -15,3 +15,6 @@ some script may be useful
  仅限Windows
 ## btpt.py
 对使用app从e站下载的torrent，更改内部的tracker，加上personal id
+
+## trans.py 
+json到xml的弹幕文件格式转换
